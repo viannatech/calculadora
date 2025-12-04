@@ -66,4 +66,4 @@ Atualiza automaticamente o display de cima e de baixo com números formatados.
 ## 🔧 Como executar
 1. Baixe ou clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone https://github.com/viannatech/calculadora.git
